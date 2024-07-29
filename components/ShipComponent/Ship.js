@@ -398,7 +398,7 @@ const Ship = () => {
       {/* footer */}
       <div className="w-full bg-[#D8D8D8]">
         <div className="flex lg:flex-row justify-between items-center lg:w-[1140px] p-5 mx-auto">
-          <p className="text-left">Copyright © 2024, Inc.</p>
+          <p className="text-center mx-auto">Copyright © 2024, Inc.</p>
           {/* <div className="flex space-x-4">
             <i class="bi bi-twitter"></i>
             <div className="rounded-full bg-gray-100 p-3">
