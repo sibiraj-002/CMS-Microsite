@@ -14,11 +14,11 @@ const BigBasketContent = () => {
       <div className="bg-gray-100">
         <div className="lg:w-2/5 container mx-auto ">
           <p
-            className="text-2xl lg:text-4xl font-semibold text-center lg:pt-24 py-10 lg:px-0 px-20"
+            className="text-2xl lg:text-4xl font-semibold text-center lg:pt-24 py-10"
             data-aos="fade-up"
           >
             Shoonya Net Zero: <br />
-            Transforming Tomorrow, One Tree at a Time
+            Transforming Tomorrow,<br /> One Tree at a Time
           </p>
 
           <p className="text-lg text-center lg:py-10 p-5" data-aos="fade-down">
